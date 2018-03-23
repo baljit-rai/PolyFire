@@ -7,5 +7,5 @@ This web app helped to learn how to
   - Keep user data available when the user goes offline
   - Make your app installable to the home screen of an Android device
   
- To see a live working demo of this app please visit https://polyfire-1aa79.firebaseapp.com, as it is hosted thorugh my firebase account.
+ To see a live working demo of this app please visit https://polyfire-1aa79.firebaseapp.com, as it is hosted through my firebase account.
  
